@@ -1,0 +1,37 @@
+.img{
+	width: 300px;
+	height: 300px;
+}
+
+.box{
+	border: 1px solid black;
+	height: 250px;
+	width: 250px;
+	
+}
+.box:hover{
+	background-color: black;
+	color: white;
+}
+.post-body {
+    padding:15px;
+}
+.post-title {
+    padding:15px;
+}
+.post-details {
+    padding:15px;
+}
+.post-body p {
+    display:inline;
+}
+.continue-post {
+    display:inline;
+    font-weight:bolder;
+}
+.continue-post:hover {
+    text-decoration:underline;
+}
+.tile {
+    background:URL("~/Content/Images/tilebulb.jpg")
+}
